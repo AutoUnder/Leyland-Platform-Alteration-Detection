@@ -10,12 +10,12 @@ import mutagen.mp3
 
 #RTT login details
 rttSource = 'api.rtt.io'
-rttUser = 'rttapi_Foxy123'
-rttPass = '35f73afc7a0fe964783129113f89951a7bcf9f61'
+rttUser = #Realtime Trains API username
+rttPass = #Realtime Trains API password
 
 #TD login details
-tdUser = 'automaticunderground@gmail.com'
-tdPass = 'UniProject2001!'
+tdUser = #Train Desciber feed username
+tdPass = #Train Describer feed password
 tdConn = stomp.Connection([('publicdatafeeds.networkrail.co.uk', 61618)])
 
 #Pushbullet details
