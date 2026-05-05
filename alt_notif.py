@@ -19,7 +19,7 @@ tdPass = #Train Describer feed password
 tdConn = stomp.Connection([('publicdatafeeds.networkrail.co.uk', 61618)])
 
 #Pushbullet details
-pbKey = 'o.w2gmECyMy5ojvKcqhawzhZ0M3IJV9cFO'
+pbKey = #Pushbullet Key
 
 #Signalling berths that can determine platform alterations at Leyland. Initialising the variables using the empty '0000' value. Names of the variables correspond to the actual name of the berth
 #3>1 berths
